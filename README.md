@@ -24,7 +24,7 @@ Open to learn anything!
  
 <div align="left">
   <a href="http://www.github.com/d1mo22">
-    <img src="https://github-readme-stats.vercel.app/api?username=d1mo22&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="d1mo22's GitHub stats"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=d1mo22&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="d1mo22's GitHub stats"/>
   </a>
 </div>
 
