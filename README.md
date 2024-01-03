@@ -27,6 +27,16 @@ Open to learn anything!
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mo22&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="d1mo22"/>
 </div>
 
+<div align="center">
+  <a href="http://www.github.com/d1mo22">
+    <img src="https://github-readme-stats.vercel.app/api?username=d1mo22&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="d1mo22's GitHub stats" style="margin: 0; padding: 0;" />
+  </a>
+  <a href="http://www.github.com/d1mo22">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mo22&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="d1mo22" style="margin: 0; padding: 0;" />
+  </a>
+</div>
+
+
  
 
 
