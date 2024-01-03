@@ -20,10 +20,9 @@ Open to learn anything!
 <p align="left"> <a href="https://www.github.com/d1mo22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
+<b>My GitHub Stats</b>
+ 
 <div align="center">
-  <b>My GitHub Stats</b>
-  
   <a href="http://www.github.com/d1mo22">
     <img src="https://github-readme-stats.vercel.app/api username=d1mo22&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="d1mo22's GitHub stats" />
   </a>
