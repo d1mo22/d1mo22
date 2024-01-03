@@ -27,4 +27,4 @@ Open to learn anything!
 
 <!--<a href="https://github.com/d1mo22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1mo22&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mo22&show_icons=true&bg_color=0d1117&locale=en&layout=compact&hide_border=true" alt="d1mo22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d1mo22&text_color=ffffff&show_icons=true&bg_color=0d1117&locale=en&layout=compact&hide_border=true" alt="d1mo22" /></p>
