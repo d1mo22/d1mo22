@@ -7,6 +7,7 @@ Computer Science Student @ UPC
 Open to learn anything!
 
 * 🌍  I'm based in Barcelona, Spain
+* 🧠  I'm learning Python, HTML, CSS, JS
 
 ### Skills
 
