@@ -1,7 +1,7 @@
 Hi 👋 My name is David Morais
 ====================================================================================================================================
 
-Computer Engineering Student @ UPC
+Informatics Engineering Student @ UPC
 ------------------------------
 
 Open to learn anything!
